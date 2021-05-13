@@ -19,7 +19,7 @@ public class FirstProject {
     public static void main(String[] args) {
         Scanner scan =new Scanner(System.in);
         int num1;
-        int num2;
+        int num3;
         double answer;
         
         System.out.println("Enter the numbers");
